@@ -1,6 +1,6 @@
-# 酷狗签到
+# KGM签到
 
-GitHub Actions 实现 `酷狗概念VIP` 自动签到，每天领取总计 `两天酷狗概念VIP`
+GitHub Actions 实现 `KGM概念VIP` 自动签到，每天领取总计 `两天酷狗概念VIP`
 
 登录后即可使用，目前提供二维码登录(推荐)和手机号登录(一个手机号绑定多个账号无法登录，见 [多账号登录问题](https://github.com/MakcRe/KuGouMusicApi/issues/51))
 
